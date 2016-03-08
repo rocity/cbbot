@@ -1,4 +1,6 @@
 # cbbot
+[@carteblanchebot](https://twitter.com/carteblanchebot)
+
 Tweets related to Davao Carte Blanche 2015
   - Retweets everything with the hashtag `#carteblanche2015`
   - Plucks random quotes from an array and then tweets it
